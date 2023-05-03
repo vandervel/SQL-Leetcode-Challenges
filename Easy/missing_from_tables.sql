@@ -1,4 +1,4 @@
-/* ids of employees who's name is missing from either the salaries
+/* ids of employees whose name is missing from either the salaries
 or employees table */
 
  select e.employee_id
